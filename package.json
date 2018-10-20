@@ -17,6 +17,16 @@
   },
   "homepage": "https://github.com/She-Goes-Media/she-goes-server#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-typescript": "^7.0.0-alpha.19",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "node": "^10.12.0"
   }
 }
