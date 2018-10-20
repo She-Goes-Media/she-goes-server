@@ -1,0 +1,22 @@
+{
+  "name": "she-goes-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/She-Goes-Media/she-goes-server.git"
+  },
+  "author": "Alicia Lycan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/She-Goes-Media/she-goes-server/issues"
+  },
+  "homepage": "https://github.com/She-Goes-Media/she-goes-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
